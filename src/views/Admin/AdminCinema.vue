@@ -1,0 +1,13 @@
+<template>
+    <div>
+        管理影院
+    </div>
+</template>
+<script>
+export default {
+    name : 'AdminCinema'
+}
+</script>
+<style scoped>
+
+</style>
